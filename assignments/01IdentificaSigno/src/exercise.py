@@ -1,7 +1,7 @@
 import math
 def main():
     #escribe tu código abajo de esta línea
-    numero= int(input("Dame un número:"))
+    numero= int(input("Dame un número: "))
     if numero >0:
         print ("Es positivo")
     if numero==0:
