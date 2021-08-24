@@ -12,11 +12,11 @@ def main():
                 print(z)
     
 
-    print("Ingresa el primer número:")
+    print("Ingresa el primer número: ")
     x=int(input())
-    print("Ingresa el segundo número:")
+    print("Ingresa el segundo número: ")
     y=int(input())
-    print("Ingresa el tercero número:")
+    print("Ingresa el tercero número: ")
     z=int(input())
     main()
     pass
